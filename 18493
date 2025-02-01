@@ -1,0 +1,16 @@
+
+Petunjuk penggunaan
+
+1.Selalu Pastikan Jaringan internet menyala
+2.Masukkan perintah ini    "   chmod +x setup_tool.sh   "
+3.Sebelum memulai pastikan menjalankan " ./setup_tool.sh "
+4.Pada saat menjalankan setup_tool.sh pastikan sudah tersambung dengan jaringan interne
+5.Jika sudah selesai jalankan tools "  python3 mulai.py  "
+
+Pemeberitahuan:
+Jika ada error pada tools langsung hubungi admin EyeFox :
+
+    Github : github.com/Ceplix007
+
+Jika ada yang berhasil menemukkan kerentanan menggunakan tools ini
+Tolong di share di github.com/Ceplix007/EyeFox/issue sebagai testimoni tools ini
