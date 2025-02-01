@@ -1,6 +1,6 @@
 #!/bin/bash
 
-URL="https://drive.google.com/file/d/14mncbjQo1cHTBmpPPDemaVIW3Gc1GL73/view"
+URL="https://download1592.mediafire.com/x3e53sd62zfgfuKeWqFP3FSOeTdVVIkL5kTz4gHB29pV2UZTxiDrsX1FMxOr_TnF3nQSscdCPuoLv--J3ulChRRnOSDMTBonYRMs7Ot2d4zHg7dMGcR33uF6MSzGTeNx-zqg4r4yRLysdz9EWw_BLPDN_pODUs8AUTUG_Xhwo9Ml/f8d1atyeu6g81fq/EyeFox.zip"
 
 ZIP_FILE="downloaded_file.zip"
 
